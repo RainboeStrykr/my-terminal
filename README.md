@@ -18,12 +18,13 @@ My perfolio website in terminal version developed with React, TypeScript and Sty
 ## Multiple Themes
 
 Currently, this website supports 7 themes. Type `themes` in the terminal for more info.
+
 ![terminal-themes](/public/themes/themes-collage.png)
 
 ## Lighthouse Score
 
 <p align="center">
-<img width="710" alt="Lighthouse Score" src="public/lighthouse-result.svg">
+<img width="400" alt="Lighthouse Score" src="public/lighthouse-result.svg">
 </p>
 
 ## Running Locally
