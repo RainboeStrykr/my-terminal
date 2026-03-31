@@ -2,8 +2,6 @@
 
 My perfolio website in terminal version developed with React, TypeScript and Styled-Components. 
 
-Blog Post: https://satnaing.dev/blog/posts/how-do-i-develop-my-terminal-portfolio-website-with-react
-
 ## Features
 
 - Multiple themes 🎨
