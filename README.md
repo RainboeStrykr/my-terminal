@@ -1,6 +1,6 @@
 # Welcome to Abhiraj's Terminal
 
-My perfolio website in terminal version developed with React, TypeScript and Styled-Components. 
+My portfolio website in terminal version developed with React, TypeScript and Styled-Components. 
 
 ## Features
 
@@ -12,8 +12,6 @@ My perfolio website in terminal version developed with React, TypeScript and Sty
 ## Tech Stack
 
 [React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/)  
-![ts](https://badgen.net/badge/Built%20With/TypeScript/blue?style=flat-square)
-
 
 ## Multiple Themes
 
