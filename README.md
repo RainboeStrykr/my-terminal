@@ -11,7 +11,7 @@ My portfolio website in terminal version developed with React, TypeScript and St
 
 ## Tech Stack
 
-[React](https://reactjs.org/), [TypeScript](https://www.typescriptlang.org/)  
+![tech-stack](https://skillicons.dev/icons?i=react,typescript,bash)
 
 ## Multiple Themes
 
